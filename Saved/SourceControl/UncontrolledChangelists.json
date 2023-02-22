@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE_5.0/Day1_Real/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UE_5.0/Day1_Real/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Materials/PalmTree_M.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Meshes/Palm.uasset",
+				"E:/UE_5.0/Day1_Real/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"E:/UE_5.0/Day1_Real/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"E:/UE_5.0/Day1_Real/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/Z9/4MKXGEW2AJ02ULRYTEQB62.uasset",
+				"E:/UE_5.0/Day1_Real/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FX/CBVIYQWDPAX1X9O1IVZGRQ.uasset",
+				"E:/UE_5.0/Day1_Real/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N4/D7364TE8SWO45HP66LG5IU.uasset",
+				"E:/UE_5.0/Day1_Real/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/UE_5.0/Day1_Real/Content/MyStaff/MaterialLevel.umap",
+				"E:/UE_5.0/Day1_Real/Content/MyStaff/FirstMaterial_M.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Meshes/M_PalmTree_Inst.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Materials/T_PalmTree_D.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Materials/T_PalmTree_M.uasset",
+				"E:/UE_5.0/Day1_Real/Content/Projects/Materials/T_PalmTree_N.uasset"
+			]
+		}
+	]
+}
